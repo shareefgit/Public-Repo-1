@@ -8,6 +8,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AppSwitcher</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
         <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Conga_Solution__c</members>
         <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Description__c</members>
         <members>Account.Active__c</members>
