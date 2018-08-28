@@ -3,6 +3,7 @@
     <version>43.0</version>
     <types>
         <members>A12</members>
+        <members>NewClass</members>
         <members>RT12</members>
         <name>ApexClass</name>
     </types>
