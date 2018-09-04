@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>43.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>A12</members>
         <members>APXTConga4__ComposerSolutionParameterAdder</members>
         <members>APXTConga4__ComposerSolutionQueryAdder</members>
         <members>ARApexclass2345</members>
         <members>Ac3</members>
+        <members>Apex_Class1</members>
         <members>Class1</members>
         <members>Class2</members>
         <name>ApexClass</name>
@@ -19,23 +18,40 @@
         <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Conga_Solution__c</members>
         <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Description__c</members>
         <members>Account.Active__c</members>
+        <members>Child_1__c.AutorabitExtId__c</members>
         <members>Child_1__c.Text_1__c</members>
         <members>Child_1__c.Text_2__c</members>
+        <members>Child_2__c.AutorabitExtId__c</members>
+        <members>Child_2__c.Parent_LookUp__c</members>
+        <members>Custom_Date_Object__c.Date_Field__c</members>
+        <members>Edition__c.Currency_LookUp__c</members>
+        <members>Edition__c.Edition_LookUp__c</members>
+        <members>Edition__c.Parent_LookUp__c</members>
         <members>Edition__c.Text_1__c</members>
         <members>Edition__c.Text_2__c</members>
+        <members>Parent_1__c.AutorabitExtId__c</members>
         <members>User.AutoRabitExtId__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Child_2__c</members>
         <members>Currency__c</members>
+        <members>Custom_Date_Object__c</members>
+        <members>Edition__c</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Custom_Date_Object__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>Child_1__c-Child_1 Layout</members>
+        <members>Custom_Date_Object__c-Custom_Date_Object Layout</members>
         <members>Edition__c-Edition Layout</members>
         <name>Layout</name>
     </types>
     <types>
+        <members>Custom_Date_Object__c.All</members>
         <members>Edition__c.All</members>
         <name>ListView</name>
     </types>
@@ -65,4 +81,5 @@
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
     </types>
+    <version>43.0</version>
 </Package>
