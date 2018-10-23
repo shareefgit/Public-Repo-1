@@ -55,7 +55,7 @@
         <fullName>X23field__c</fullName>
         <externalId>false</externalId>
         <label>23field</label>
-        <length>20</length>
+        <length>202</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
