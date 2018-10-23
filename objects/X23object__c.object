@@ -56,7 +56,7 @@
         <externalId>false</externalId>
         <label>23field</label>
         <length>20</length>
-        <required>false</required>
+        <required>true</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
